@@ -1,0 +1,1 @@
+Modified version to support map-icons, different marker colors, etc.
